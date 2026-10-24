@@ -1,4 +1,4 @@
-# FlakeHunter: Problem Statement (Draft v0.1)
+# FlakeHunter: Problem Statement
 
 ## The problem
 A flaky test is an automated test that sometimes passes and sometimes fails on the exact same code. In a local experiment, a test with a random condition failed 2 out of 10 runs with no code change.
